@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4137F1DA-BAA7-409A-BE46-882A1D82BDD0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Hastane_Randevu_Otomasyonu_Proje</RootNamespace>
+    <AssemblyName>Hastane Randevu Otomasyonu Proje</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\berk_\OneDrive\Masaüstü\Hastane\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Hastane Randevu Otomasyonu</ProductName>
+    <PublisherName>Nihat Berk ÖZ</PublisherName>
+    <SuiteName>Nihat Berk ÖZ</SuiteName>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>522F240E27CC69129DED19A2B3EAE276DE903AD0</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Hastane Randevu Otomasyonu Proje_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin Giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Giriş.Designer.cs">
+      <DependentUpon>Admin Giriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin Panel.Designer.cs">
+      <DependentUpon>Admin Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doktor Bilgi Ekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doktor Bilgi Ekranı.Designer.cs">
+      <DependentUpon>Doktor Bilgi Ekranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doktor Giriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doktor Giriş.Designer.cs">
+      <DependentUpon>Doktor Giriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Doktor Şifre Unuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doktor Şifre Unuttum.Designer.cs">
+      <DependentUpon>Doktor Şifre Unuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HastaneDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>HastaneDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="HastaneRandevuOtomasyonGiriş.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HastaneRandevuOtomasyonGiriş.Designer.cs">
+      <DependentUpon>HastaneRandevuOtomasyonGiriş.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Instances.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VatandasGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VatandasGiris.Designer.cs">
+      <DependentUpon>VatandasGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vatandaş Bilgi Ekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vatandaş Bilgi Ekranı.Designer.cs">
+      <DependentUpon>Vatandaş Bilgi Ekranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vatandaş Randevu Ekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vatandaş Randevu Ekranı.Designer.cs">
+      <DependentUpon>Vatandaş Randevu Ekranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vatandaş Randevularım Ekranı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vatandaş Randevularım Ekranı.Designer.cs">
+      <DependentUpon>Vatandaş Randevularım Ekranı.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vatandaş Yeni Üye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vatandaş Yeni Üye.Designer.cs">
+      <DependentUpon>Vatandaş Yeni Üye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vatandaş Şifre Unuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vatandaş Şifre Unuttum.Designer.cs">
+      <DependentUpon>Vatandaş Şifre Unuttum.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin Giriş.resx">
+      <DependentUpon>Admin Giriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin Panel.resx">
+      <DependentUpon>Admin Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doktor Bilgi Ekranı.resx">
+      <DependentUpon>Doktor Bilgi Ekranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doktor Giriş.resx">
+      <DependentUpon>Doktor Giriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Doktor Şifre Unuttum.resx">
+      <DependentUpon>Doktor Şifre Unuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HastaneRandevuOtomasyonGiriş.resx">
+      <DependentUpon>HastaneRandevuOtomasyonGiriş.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="VatandasGiris.resx">
+      <DependentUpon>VatandasGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vatandaş Bilgi Ekranı.resx">
+      <DependentUpon>Vatandaş Bilgi Ekranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vatandaş Randevu Ekranı.resx">
+      <DependentUpon>Vatandaş Randevu Ekranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vatandaş Randevularım Ekranı.resx">
+      <DependentUpon>Vatandaş Randevularım Ekranı.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vatandaş Yeni Üye.resx">
+      <DependentUpon>Vatandaş Yeni Üye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vatandaş Şifre Unuttum.resx">
+      <DependentUpon>Vatandaş Şifre Unuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Hastane Randevu Otomasyonu Proje_TemporaryKey.pfx" />
+    <None Include="HastaneDataSet.xsc">
+      <DependentUpon>HastaneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="HastaneDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>HastaneDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="HastaneDataSet.xss">
+      <DependentUpon>HastaneDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 ve x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 </ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SqlLocalDB.15.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2019 Express LocalDB</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hastane.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
