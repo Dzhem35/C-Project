@@ -1,0 +1,81 @@
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe.config
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.pdb
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csprojAssemblyReference.cache
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Admin_Giriş.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Admin_Panel.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Bilgi_Ekranı.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Giriş.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.HastaneRandevuOtomasyonGiriş.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Properties.Resources.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Giriş.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Randevu_Ekranı.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Randevularım_Ekranı.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Yeni_Üye.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Şifre_Unuttum.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.GenerateResource.cache
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.CoreCompileInputs.cache
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.exe
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.pdb
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Şifre_Unuttum.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Bilgi_Ekranı.resources
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe.manifest
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.application
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.exe.manifest
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.application
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane.mdf
+C:\Users\berk_\source\repos\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane_log.ldf
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane.mdf
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane_log.ldf
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe.config
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe.manifest
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.application
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.pdb
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.AssemblyReference.cache
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Admin_Giriş.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Admin_Panel.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Bilgi_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Giriş.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Şifre_Unuttum.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.HastaneRandevuOtomasyonGiriş.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Properties.Resources.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Bilgi_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Giriş.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Randevu_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Randevularım_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Yeni_Üye.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Şifre_Unuttum.resources
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.GenerateResource.cache
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.CoreCompileInputs.cache
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.exe.manifest
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.application
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.exe
+C:\Users\cemte\OneDrive\Masaüstü\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.pdb
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.AssemblyReference.cache
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Admin_Giriş.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Admin_Panel.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Bilgi_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Giriş.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Doktor_Şifre_Unuttum.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.HastaneRandevuOtomasyonGiriş.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Properties.Resources.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Bilgi_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Randevu_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Randevularım_Ekranı.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Yeni_Üye.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Şifre_Unuttum.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.GenerateResource.cache
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.csproj.CoreCompileInputs.cache
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.exe.manifest
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.exe
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.pdb
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe.config
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe.manifest
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.application
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.exe
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\Hastane Randevu Otomasyonu Proje.pdb
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane Randevu Otomasyonu Proje.application
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.VatandasGiris.resources
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\bin\Debug\hastane.mdb
+C:\Users\cemte\OneDrive\Masaüstü\C#\Hastane Randevu Otomasyonu Proje\Hastane Randevu Otomasyonu Proje\obj\Debug\Hastane_Randevu_Otomasyonu_Proje.Vatandaş_Giriş.resources
